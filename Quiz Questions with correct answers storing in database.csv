@@ -1,0 +1,11 @@
+QuizeNo,Quize,Option_A,Option_B,Option_C,Option_D,answer
+1,"Who is the developer of java ?","a) jame",b)sun,"c)James Gosling "," d) java ",c
+2," Constructor is static...","a) yes","b) no","c) both a & b"," d) none ",b
+3," JVM is plateform Independant","a) true","b) false","c) both a & b"," d) none ",a
+4," what is the example of dynamic dispatch of A is parent class of B & C ","a) A a=new B()","b) A a=new c()","c) both a & b"," d) none ",c
+5,"what is the return type of equal method ","a) Boolean "," b) int "," c) String "," d) Object",a
+6,"what is cheack equal method     ","a) content","b) Object ","c) variable "," d) address",d
+7,"To create and run the program what is required   "," a) JVM"," b) JRE "," c) JDK  ","d) both is need a & b",c
+8,"Topmost class","a) Object class ","b) Set  "," c) ArrayList class "," d) Map",a
+9," Subclass of Exception class  "," a) ID Exception "," b) ArrayIndexOutOfBound Exception","c) Arithmatic Exception ","d) OutOfMemory Error",a
+10,"Collections is a  "," a) class "," b) Interface "," c) package ",d)none,a
